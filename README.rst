@@ -14,6 +14,11 @@ A template engine can generate newsletter from multiple context sources with spe
 * Free software: BSD license
 * Documentation: https://newsletter.readthedocs.org.
 
+Description
+-----------
+
+A newsletter is composed by several sections defined by a template. We build a newsletter by collect the items we want from the section files.
+
 Features
 --------
 
