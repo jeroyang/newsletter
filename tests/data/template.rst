@@ -1,30 +1,36 @@
 .. include:: header.rst
 
-BioText Newsletter - Issue {{issue_number}}
+BioText Newsletter - Issue {{issue_number.rst}}
 ===========================================
-:Date: {{publish_date}}
+:Date: {{publish_date.rst}}
 
-{{welcome}}
+{{welcome.rst}}
 
 *********
+
 Lectures
 --------
-{{lecture}}
+{{lecture.rst}}
+{{lecture.rst}}
 
 Contest
 --------
-{{contest}}
+{{contest.rst}}
 
 Corpus
 -------
-{{corpus}}
+{{corpus.rst}}
 
 Interesting Projects
 --------------------
-{{interesting_project}}
+{{interesting_project.rst}}
+{{interesting_project.rst}}
 
 *********
-{{bible_pharse}}
+
+{{bible_pharse.rst}}
+
 *********
+
 .. include:: footer.rst
 
